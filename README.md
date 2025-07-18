@@ -26,7 +26,6 @@ Sou um Desenvolvedor Fullstack apaixonado por tecnologia e inovação. Atualment
 
 ## 📌 Projetos Destacados
 [![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=PedroDmMaia&repo=sl-startup-api&theme=dracula)]([https://github.com/PedroDmMaia/nome-do-repositorio](https://github.com/PedroDmMaia/sl-startup-api))
-(Adicione seus projetos importantes aqui)
 
 ## 📫 Como me encontrar
 - ✉️ Email: [pedrodelmonico@hotmail.com](mailto:pedrodelmonico@hotmail.com)
