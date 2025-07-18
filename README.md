@@ -25,7 +25,7 @@ Sou um Desenvolvedor Fullstack apaixonado por tecnologia e inovação. Atualment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📌 Projetos Destacados
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=nome-do-repositorio&theme=dracula)]([https://github.com/PedroDmMaia/nome-do-repositorio](https://github.com/PedroDmMaia/sl-startup-api))
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=PedroDmMaia&repo=sl-startup-api&theme=dracula)]([https://github.com/PedroDmMaia/nome-do-repositorio](https://github.com/PedroDmMaia/sl-startup-api))
 (Adicione seus projetos importantes aqui)
 
 ## 📫 Como me encontrar
@@ -34,8 +34,8 @@ Sou um Desenvolvedor Fullstack apaixonado por tecnologia e inovação. Atualment
 - 🌐 Portfólio: [Seu site](https://pedrodelmonicomaia.com.br/)
 
 ## 📊 Estatísticas do GitHub
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula&hide=issues)](https://github.com/PedroDmMaia)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroDmMaia&show_icons=true&theme=dracula&hide=issues)](https://github.com/PedroDmMaia)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dracula&hide=html,css)](https://github.com/PedroDmMaia)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDmMaia&layout=compact&theme=dracula&hide=html,css)](https://github.com/PedroDmMaia)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=seu-usuario&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=PedroDmMaia&theme=dracula)](https://git.io/streak-stats)
